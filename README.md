@@ -1,60 +1,61 @@
-# ⚡🌀✋ EnigMano Windows 10 (Sound Enabled) — Your Tactical Fortress Commander
+<h1 align="center">
+  ✨ SAINI DRM Bot ✨
+</h1>
 
-![GitHub Workflow](https://img.shields.io/badge/GitHub-Workflow-blue?style=for-the-badge&logo=github&logoColor=white)
-![Windows](https://img.shields.io/badge/Runner-Windows%2010-lime?style=for-the-badge&logo=windows&logoColor=white)
-![PowerShell](https://img.shields.io/badge/Script-PowerShell-178600?style=for-the-badge&logo=powershell&logoColor=white)
-
----
-
-**EnigMano 🌀✋** is forged from two powerful concepts:
-
-* **Enigma 🌀** — a puzzle wrapped in shadows, precision, and quiet strength.  
-* **Mano ✋** — the “hand” that commands, controls, and executes with unwavering resolve.  
-
-Together, **EnigMano** embodies *“The Hand of Mystery”* — a silent guardian orchestrating the life and legacy of every fortress instance with masterful precision and hidden grace. 🛡️  
-
-> **Project Focus:** This repository is part of the EnigMano ecosystem, dedicated to creating **sound-enabled, fully automated Windows 10 instances**. Each instance is pre-configured, secure, and ready for remote deployment and operations.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+DRM+Bot+by+@nikhil.saini.khe" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🔥 What Is This? 🕵️‍♂️
-
-This GitHub Actions workflow automates the deployment of **EnigMano Windows 10 (Sound Enabled)** instances, preparing a **digital fortress environment** that includes:
-
-* Visual personalization (wallpapers, themes, sounds)
-* Multi-browser deployment with isolated profiles
-* Essential extensions for privacy, productivity, and automation
-* Secure remote access via **Google Chrome Remote Desktop headless authentication**
-* **Node.js LTS** and **Visual Studio Code** pre-installed for advanced automation and coding operations ⚙️
-* Optional tools like **Internet Download Manager (IDM)** and **Cloudflare WARP**
-
-Everything runs automatically, creating **self-sufficient, ready-to-use workstations**.
+> 🔐 **Note:** CP DRM supported — Minimum quality **360p**  
+> 🚫 **Do not remove the credit tag**
 
 ---
 
-## ⚡ Fortress Overview 🏰
+## 📜 Commands
 
-| Parameter               | Value / Action                                                                                                                                                                                                                                 |
-| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Workflow Trigger        | Manual, enter **Auth Code** of GCRD ✋                                                                                                                                                                                                          |
-| Secrets Required        | `ENIGMANO_ACCESS_TOKEN` 🔐 *(retrievable from official [**YouTube guide**](https://bit.ly/Win10-GCRD-with-Sound))*                                                                                                                                                                         |
-| Chrome & Brave Profiles | 3 isolated profiles per browser 🖥️                                                                                                                                                                                                            |
-| Extensions Installed    | WebRTC Protect 🛡️, Video Quality Settings 🎥, Random YouTube Video 🎲, Proton VPN 🔒, Stop Autoplay Next ⏹️, YouTube Nonstop 🔁, uBlock Origin 🚫, Ghostery 👻, Tab Auto Refresh 🔄, Adguard, IDM Integration Module, YouTube Ad Auto Skipper |
-| Secure Access           | RDP enabled, firewall configured, Chrome Remote Desktop (Headless Auth) 🌐                                                                                                                                                                     |
-| Mission Duration        | 340 minutes ⏱️                                                                                                                                                                                                                                 |
-| Logs & Reporting        | Step-by-step deployment + final status 📝                                                                                                                                                                                                      |
+| Command | Description |
+|---------|-------------|
+| `/start` | Start the bot |
+| `/stop`  | Stop the bot |
+| `/help`  | Show help message |
 
 ---
 
-## 🔐 Prerequisites 🛡️
+## 🚀 Deployment Process
 
-* GitHub secrets configured:  
-  * `ENIGMANO_ACCESS_TOKEN` 🔑 *(from [**YouTube tutorial**](https://bit.ly/Win10-GCRD-with-Sound) — mandatory for execution)*   
+🎬 **Watch Full Deployment Tutorial:**  
+[![YouTube Video](https://img.shields.io/badge/Watch%20on-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/PYDtSTM6w44?si=noKPl7o4iU9SR_TO)
+
+### Step-by-Step:
+1. **Fork** the Repository  
+2. **Edit `vars.py`** — Fill in your `API_ID` and `API_HASH`  
+3. **Edit `README.md`** — Change the deploy button links to point to your own fork  
+4. Choose any platform and **Deploy** directly using the buttons below:
 
 ---
 
-## 🙌 Credits 🛡️
+## 📦 Deploy via Buttons
 
-Built & maintained by [**SHAHZAIB-YT**](https://www.youtube.com/@ShahzaibYT-itxsb) — orchestrating Windows fortresses with tactical precision. 🔋  
+[![Deploy to Render](https://img.shields.io/badge/Deploy%20to-Render-blue?style=for-the-badge&logo=render)](https://render.com/deploy)  
+[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20to-Heroku-purple?style=for-the-badge&logo=heroku)](https://www.heroku.com/deploy?template=https://github.com/nikhilsainiop/saini-txt-direct)  
+[![Deploy to Koyeb](https://img.shields.io/badge/Deploy%20to-Koyeb-black?style=for-the-badge&logo=koyeb)](https://app.koyeb.com/deploy?name=saini-txt-direct&repository=nikhilsainiop%2FSaini-txt-direct&branch=main&instance_type=free&instances_min=0)
 
 ---
+
+## 🤖 Bot Usernames
+
+- [@saini_contact_bot](https://t.me/saini_contact_bot)
+- [@saini_file_store_bot](https://t.me/saini_file_store_bot)
+
+---
+
+## 📂 Original Repositories
+
+- 🔗 [nikhilsainiop/saini-txt-direct](https://github.com/nikhilsainiop/saini-txt-direct)
+- 🔗 [cyberseller999/saini-txt-direct](https://github.com/cyberseller999/saini-txt-direct)
+
+---
+
+> 👨‍💻 Created with ❤️ by [@nikhil.saini.khe](https://instagram.com/nikhil.saini.khe)
